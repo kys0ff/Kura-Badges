@@ -1,3 +1,187 @@
 {
-  "com.sec.android.app.camera": ["Recommended"]
+  "com.sec.android.app.camera": [
+    0
+  ],
+  "com.google.android.apps.authenticator2": [
+    1
+  ],
+  "off.kys.backtalk": [
+    2
+  ],
+  "com.samsung.android.calendar": [
+    0
+  ],
+  "io.github.samolego.canta": [
+    1
+  ],
+  "com.samsung.android.app.contacts": [
+    0
+  ],
+  "com.deepseek.chat": [
+    0
+  ],
+  "com.discord": [
+    0
+  ],
+  "org.fdroid.fdroid": [
+    0
+  ],
+  "com.facebook.katana": [
+    0
+  ],
+  "org.mozilla.firefox": [
+    0
+  ],
+  "com.sec.android.gallery3d": [
+    0
+  ],
+  "com.google.android.inputmethod.latin": [
+    3
+  ],
+  "com.google.android.gm": [
+    0
+  ],
+  "com.google.android.googlequicksearchbox": [
+    0
+  ],
+  "com.android.vending": [
+    1
+  ],
+  "com.instagram.android": [
+    0
+  ],
+  "com.shub39.grit": [
+    0,
+    2
+  ],
+  "org.librevault": [
+    0,
+    2
+  ],
+  "com.facebook.lite": [
+    0
+  ],
+  "bin.mt.plus": [
+    0
+  ],
+  "com.google.android.apps.maps": [
+    0
+  ],
+  "com.mediafire.android": [
+    0
+  ],
+  "com.samsung.android.messaging": [
+    0
+  ],
+  "com.facebook.orca": [
+    0,
+    2
+  ],
+  "com.samsung.android.app.routines": [
+    0
+  ],
+  "com.flyersoft.moonreaderp": [
+    0
+  ],
+  "com.sec.android.app.myfiles": [
+    0
+  ],
+  "org.schabi.newpipe": [
+    0
+  ],
+  "dev.imranr.obtainium.fdroid": [
+    0
+  ],
+  "org.ppsspp.ppsspp": [
+    0
+  ],
+  "com.samsung.android.dialer": [],
+  "dev.leonlatsch.photok": [
+    0,
+    2
+  ],
+  "InfinityLoop1309.NewPipeEnhanced": [
+    0
+  ],
+  "com.imaginstudio.imagetools.pixellab": [
+    0
+  ],
+  "ch.protonvpn.android": [
+    0
+  ],
+  "com.reddit.frontpage": [
+    0
+  ],
+  "com.redotpay": [
+    0,
+    2
+  ],
+  "org.crape.rotationcontrol": [
+    0
+  ],
+  "com.android.stk": [
+    0
+  ],
+  "com.sec.android.app.music": [
+    0
+  ],
+  "com.samsung.android.app.notes": [
+    0
+  ],
+  "com.kimcy929.screenrecorder": [
+    0
+  ],
+  "com.shazam.android": [
+    0
+  ],
+  "moe.shizulu.privileged.api": [
+    2
+  ],
+  "org.secuso.privacyfriendlysketching": [
+    0
+  ],
+  "com.georgie.SoundWireFree": [
+    0
+  ],
+  "com.valvesoftware.android.steam.community": [
+    0
+  ],
+  "org.telegram.messenger": [
+    0,
+    2
+  ],
+  "com.tempmail": [
+    0
+  ],
+  "com.instagram.barcelona": [
+    0
+  ],
+  "tv.twitch.android.app": [
+    0
+  ],
+  "com.samsung.android.videolist": [
+    0
+  ],
+  "com.sec.android.app.voicenote": [
+    0
+  ],
+  "com.meberty.videotrimmer": [
+    0
+  ],
+  "com.whatsapp": [
+    0,
+    2
+  ],
+  "com.google.android.apps.youtube.music": [
+    0
+  ],
+  "app.revanced.android.youtube": [
+    0
+  ],
+  "com.reader.books": [
+    0
+  ],
+  "app.revanced.android.gms": [
+    0
+  ]
 }
