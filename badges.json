@@ -183,5 +183,8 @@
   ],
   "app.revanced.android.gms": [
     0
+  ],
+  "moe.shizuku.privileged.api": [
+    1
   ]
 }
